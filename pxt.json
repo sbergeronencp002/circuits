@@ -13,7 +13,12 @@
         "main.ts",
         "tuto_1.md",
         "tuto_2.md",
-        "tuto_3.md"
+        "tuto_3.md",
+        "tuto_4.md",
+        "tuto_5.md",
+        "tuto_6.md",
+        "tuto_7.md",
+        "tuto_8.md"
     ],
     "testFiles": [
         "test.ts"
