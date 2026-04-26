@@ -165,7 +165,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 11 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -175,7 +175,7 @@ input.onButtonPressed(Button.A, function () {
 
 ❓ **Quelle est la différence entre ce tutoriel et le tutoriel précédent sur la luminosité ?**
 
-## Étape 11 — Question réflexive 🤔
+## Étape 12 — Question réflexive 🤔
 
 ❓ **Pourquoi la DEL s'allume-t-elle quand il fait chaud plutôt que quand il fait froid ?**
 
@@ -183,9 +183,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 Ce principe est utilisé dans les thermostats, les climatiseurs intelligents et les serres agricoles — quand la température dépasse un seuil, un système se déclenche automatiquement ! 🌡️
 
-## Étape 12 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 13 — Défi de base 🧠
 
 ➡️ Modifie le seuil de `25` pour qu'il corresponde mieux à la température de ta classe.
 
@@ -193,7 +191,7 @@ input.onButtonPressed(Button.A, function () {
 
 > ❓ Quelle valeur donne le meilleur résultat dans ton environnement ?
 
-**Défi avancé :**
+## Étape 14 — Défi avancé 🧠
 
 ➡️ Ajoute une icône sur l'écran du micro:bit — le soleil ☀️ quand la DEL est allumée et le flocon ❄️ quand elle est éteinte.
 
