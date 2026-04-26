@@ -50,7 +50,7 @@ basic.forever(function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit — comme ça, la DEL s'allumera dès que tu brancheras les fils !
 
-## @showdialog
+## Étape 5 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement ci-dessous !
 
@@ -60,7 +60,7 @@ basic.forever(function () {
 
 > 💡 Le micro:bit agit comme un **interrupteur numérique** — c'est ton programme qui décide si la DEL est allumée ou éteinte !
 
-## Étape 5 — Question réflexive 🤔
+## Étape 6 — Question réflexive 🤔
 
 ❓ **Que se passerait-il si tu remettais la valeur `0` dans ton programme ?**
 
@@ -68,9 +68,7 @@ basic.forever(function () {
 
 > 💡 Avec un interrupteur ordinaire, c'est toi qui allumes manuellement. Avec le micro:bit, c'est ton **programme** qui contrôle la lumière — tu pourrais l'allumer automatiquement, à distance, ou selon des conditions !
 
-## Étape 6 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 7 — Défi de base 🧠
 
 ➡️ Modifie ton programme pour que la DEL clignote — alterne entre `0` et `1` avec une pause de `500 ms` entre les deux.
 
@@ -85,7 +83,7 @@ basic.forever(function () {
 
 > ❓ Que se passe-t-il si tu changes la valeur de la pause à `100` ? Et à `1000` ?
 
-**Défi avancé :**
+## Étape 8 — Défi avancé 🧠
 
 ➡️ Utilise une boucle ``||loops:répéter 4 fois||`` pour faire clignoter la DEL un nombre précis de fois, puis l'éteindre définitivement.
 
