@@ -106,7 +106,7 @@ input.onGesture(Gesture.Shake, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 7 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -116,7 +116,7 @@ input.onGesture(Gesture.Shake, function () {
 
 ❓ **Quelle est la différence entre le branchement de ce tutoriel et celui des tutoriels précédents ?**
 
-## Étape 7 — Question réflexive 🤔
+## Étape 8 — Question réflexive 🤔
 
 ❓ **Pourquoi éteint-on une DEL en même temps qu'on allume l'autre ?**
 
@@ -124,9 +124,7 @@ input.onGesture(Gesture.Shake, function () {
 
 > 💡 En éteignant toujours l'autre DEL, on s'assure qu'une seule DEL est allumée à la fois — sauf avec **A+B** ! C'est le même principe qu'un interrupteur va-et-vient dans une maison 💡
 
-## Étape 8 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 9 — Défi de base 🧠
 
 ➡️ Ajoute un bloc ``||basic:afficher texte||`` pour afficher le nom de la DEL allumée sur l'écran du micro:bit.
 
@@ -155,7 +153,7 @@ input.onGesture(Gesture.Shake, function () {
 
 > ❓ Est-ce que l'écran du micro:bit affiche toujours le bon état ?
 
-**Défi avancé :**
+## Étape 10 — Défi avancé 🧠
 
 ➡️ Ajoute une icône différente pour chaque situation — un soleil ☀️ pour la DEL 1, une lune 🌙 pour la DEL 2, un cœur ❤️ pour les deux, et un écran vide pour la secousse.
 
