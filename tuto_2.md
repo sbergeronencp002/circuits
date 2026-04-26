@@ -54,7 +54,7 @@ input.onButtonPressed(Button.B, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 5 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit. !
 
@@ -64,7 +64,7 @@ input.onButtonPressed(Button.B, function () {
 
 ❓ **Quelle est la différence entre le branchement de ce tutoriel et celui du tutoriel précédent ?**
 
-## Étape 5 — Question réflexive 🤔
+## Étape 6 — Question réflexive 🤔
 
 ❓ **Quelle est la différence entre ce programme et celui du tutoriel précédent ?**
 
@@ -72,9 +72,7 @@ input.onButtonPressed(Button.B, function () {
 
 > 💡 Au tutoriel 1, la DEL s'allumait **automatiquement** dès le démarrage. Ici, c'est **toi** qui contrôles — le micro:bit attend tes instructions avant d'agir. C'est la puissance des **événements** !
 
-## Étape 6 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 7 — Défi de base 🧠
 
 ➡️ Ajoute un bloc ``||basic:afficher texte||`` pour afficher `"ON"` quand tu appuies sur **A** et `"OFF"` quand tu appuies sur **B**.
 
@@ -91,7 +89,7 @@ input.onButtonPressed(Button.B, function () {
 
 > ❓ Est-ce que l'écran du micro:bit affiche toujours le bon état ?
 
-**Défi avancé :**
+## Étape 8 — Défi avancé 🧠
 
 ➡️ Remplace les textes `"ON"` et `"OFF"` par des icônes — affiche le soleil ☀️ quand la DEL est allumée et la lune 🌙 quand elle est éteinte.
 
