@@ -194,7 +194,7 @@ basic.forever(function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 12 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -204,7 +204,7 @@ basic.forever(function () {
 
 ❓ **Quelle est la différence entre le branchement de ce tutoriel et celui des tutoriels précédents ?**
 
-## Étape 12 — Question réflexive 🤔
+## Étape 13 — Question réflexive 🤔
 
 ❓ **Pourquoi est-il important d'éteindre une DEL avant d'allumer la suivante ?**
 
@@ -212,15 +212,13 @@ basic.forever(function () {
 
 > 💡 Sans éteindre les DEL précédentes, toutes les couleurs seraient allumées en même temps — ce ne serait plus un vrai feu de circulation ! La séquence précise est essentielle pour que le programme fonctionne correctement 🚦
 
-## Étape 13 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 14 — Défi de base 🧠
 
 ➡️ Modifie les valeurs des pauses pour changer la durée de chaque feu.
 
 > ❓ Quelle combinaison de durées donne le feu de circulation le plus réaliste ?
 
-**Défi avancé :**
+## Étape 15 — Défi avancé 🧠
 
 ➡️ Ajoute une icône sur l'écran du micro:bit pour chaque couleur — un X ❌ pour le rouge, un triangle ⚠️ pour le jaune et un crochet ✅ pour le vert.
 
