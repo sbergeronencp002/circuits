@@ -117,7 +117,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 8 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -127,7 +127,7 @@ input.onButtonPressed(Button.A, function () {
 
 ❓ **Quelle est la différence entre le branchement de ce tutoriel et celui du tutoriel précédent ?**
 
-## Étape 8 — Question réflexive 🤔
+## Étape 9 — Question réflexive 🤔
 
 ❓ **Quelle est la différence entre le bloc ``||basic:toujours||`` et le bloc ``||loops:répéter||`` ?**
 
@@ -135,9 +135,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 Le bloc ``||basic:toujours||`` répète indéfiniment — il ne s'arrête jamais. Le bloc ``||loops:répéter||`` s'arrête après un nombre précis de répétitions — c'est toi qui décides combien de fois la DEL clignote !
 
-## Étape 9 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 10 — Défi de base 🧠
 
 ➡️ Remplace le bouton **A** par l'événement ``||input:lorsque secouer||`` pour déclencher le clignotement en secouant le micro:bit !
 
@@ -154,7 +152,7 @@ input.onGesture(Gesture.Shake, function () {
 
 > ❓ Que se passe-t-il si tu secoues le micro:bit pendant que la DEL clignote déjà ?
 
-**Défi avancé :**
+## Étape 11 — Défi avancé 🧠
 
 ➡️ Combine les deux événements — utilise le bouton **A** pour un clignotement lent (`500 ms`) et la secousse pour un clignotement rapide (`100 ms`).
 
@@ -182,3 +180,5 @@ input.onGesture(Gesture.Shake, function () {
 ```
 
 > ❓ Est-ce que l'écran du micro:bit affiche toujours le bon message ?
+
+🚀 Bravo ! Tu sais maintenant faire clignoter une DEL avec une boucle et des pauses !
