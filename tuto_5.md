@@ -192,7 +192,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 13 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -202,7 +202,7 @@ input.onButtonPressed(Button.A, function () {
 
 ❓ **Quelle est la différence entre le branchement de ce tutoriel et celui des tutoriels précédents ?**
 
-## Étape 13 — Question réflexive 🤔
+## Étape 14 — Question réflexive 🤔
 
 ❓ **Pourquoi utilise-t-on une variable plutôt que d'insérer directement le capteur dans les conditions ?**
 
@@ -210,9 +210,7 @@ input.onButtonPressed(Button.A, function () {
 
 > 💡 La variable `luminosite` permet de calculer le pourcentage **une seule fois** et de le réutiliser partout — dans les conditions ET dans l'affichage. Sans variable, il faudrait recalculer à chaque fois ! Ce principe est utilisé dans les lampadaires intelligents et les veilleuses automatiques 🌙
 
-## Étape 14 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 15 — Défi de base 🧠
 
 ➡️ Modifie le seuil de `40` pour qu'il corresponde mieux à la luminosité de ta classe.
 
@@ -220,7 +218,7 @@ input.onButtonPressed(Button.A, function () {
 
 > ❓ Quelle valeur donne le meilleur résultat dans ton environnement ?
 
-**Défi avancé :**
+## Étape 16 — Défi avancé 🧠
 
 ➡️ Ajoute une icône sur l'écran du micro:bit — la lune 🌙 quand la DEL est allumée et le soleil ☀️ quand elle est éteinte.
 
