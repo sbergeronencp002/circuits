@@ -454,7 +454,7 @@ input.onGesture(Gesture.Shake, function () {
 
 > 💡 Le programme doit être dans le micro:bit avant de réaliser le circuit !
 
-## @showdialog
+## Étape 23 — Réaliser le circuit 🔌
 
 🔌 Réalise le branchement du circuit !
 
@@ -464,7 +464,7 @@ input.onGesture(Gesture.Shake, function () {
 
 ❓ **Quelle est la différence entre les trois modes de clignotement ?**
 
-## Étape 23 — Question réflexive 🤔
+## Étape 24 — Question réflexive 🤔
 
 ❓ **Quelle est la différence entre la cascade simple et la cascade en paquets de 2 ?**
 
@@ -472,15 +472,13 @@ input.onGesture(Gesture.Shake, function () {
 
 > 💡 Avec les boucles ``||loops:répéter||``, le micro:bit doit terminer l'animation en cours avant de réagir à un nouveau bouton — c'est pourquoi la secousse n'arrête pas immédiatement l'animation !
 
-## Étape 24 — Défi supplémentaire 🧠
-
-**Défi de base :**
+## Étape 25 — Défi de base 🧠
 
 ➡️ Modifie les valeurs des pauses pour accélérer ou ralentir les animations.
 
 > ❓ Quelle combinaison de pauses donne l'effet le plus festif ? 🎄
 
-**Défi avancé :**
+## Étape 26 — Défi avancé 🧠
 
 ➡️ Modifie la cascade simple pour qu'elle aille dans les deux sens — P0 → P1 → P2 → P2 → P1 → P0 — pour un effet de va-et-vient ! 🌊
 
